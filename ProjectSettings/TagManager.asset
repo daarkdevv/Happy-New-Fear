@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - IntText
+  - Wall
+  - Openable
+  - Abu Haseeba
+  - Entity
+  - SongsUi
+  - IncomingCallsUi
+  - Knife
+  - CallSomeOne
+  - Phone
+  - PhoneManager
+  - FlashLight
+  - MissionText
+  - CookedPizza
+  - TV
+  - TvManager
+  - Couch
+  - BatteryUI
+  - ContainerPower
+  - BatteryImg
+  - JeffAudioContainer
+  - JeffColliderBorder
+  - DialogueText
+  - CarTarget
+  - CarSpawner
+  - CanvasGroup
+  - LevelLoader
+  - Grass
+  - Celling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post
+  - Water
+  - UI
+  - Player
+  - Enivoremnt
+  - Interactable
+  - Wall
+  - Entity
+  - RaycastBlocker
+  - Furnace
+  - IgnoreNavMesh
+  - Openable
+  - Followable
+  - IgnorePlayerCollider
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 599392781
+    locked: 0
